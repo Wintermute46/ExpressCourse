@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ЭкспрессКурс</string>
+    <string name="butt_name">КНОПКА</string>
+    <string name="edit_name">Правь меня</string>
+    <string name="butt1_name">Инкремент</string>
+    <string name="butt2_name">Декремент</string>
+</resources>
